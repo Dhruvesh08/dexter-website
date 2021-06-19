@@ -3025,7 +3025,7 @@ a.subnav-title:hover::after {
 .slide-title {
     overflow: hidden;
     text-transform: capitalize;
-    font-size: 82px;
+    font-size: 52px;
     line-height: 115%;
     margin-bottom: 10px;
 }
