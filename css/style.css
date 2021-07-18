@@ -4297,6 +4297,7 @@ a.subnav-title:hover::after {
 .client-image{
     height: 100px;
     width: 200px;
+    object-fit: contain;
   
 }
 
