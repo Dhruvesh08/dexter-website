@@ -1125,6 +1125,7 @@ p {
     -webkit-transform-origin: 50% 0%;
     transform-origin: 50% 0%;
     position: absolute;
+    width: 100%;
 }
 .page-header-image {
     width: 100%;
